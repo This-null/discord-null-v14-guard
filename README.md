@@ -23,4 +23,4 @@
 
 - Gibi sorularınızı sormak için 
 
-- https://harmonydc.xyz/discord.html
+- https://harmonydc.xyz/discord
